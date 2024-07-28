@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import acotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acotf@deno/mod.js';
+import acotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acotf@v0.1.1-deno/mod.js';
 ```
 
 #### acotf( x )
@@ -69,7 +69,7 @@ v = acotf( Infinity );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import acotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acotf@deno/mod.js';
+import acotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acotf@v0.1.1-deno/mod.js';
 
 var x = linspace( -5.0, 5.0, 100 );
 
