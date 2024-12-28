@@ -190,6 +190,14 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/special/acot`][@stdlib/math/base/special/acot]</span><span class="delimiter">: </span><span class="description">compute the inverse cotangent.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/acoth`][@stdlib/math/base/special/acoth]</span><span class="delimiter">: </span><span class="description">compute the inverse hyperbolic cotangent.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/atanf`][@stdlib/math/base/special/atanf]</span><span class="delimiter">: </span><span class="description">compute the arctangent of a single-precision floating-point number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -267,6 +275,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-acotf/main/LICENSE
 
 [arccotangent]: https://en.wikipedia.org/wiki/Inverse_trigonometric_functions
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/acot]: https://github.com/stdlib-js/math-base-special-acot
+
+[@stdlib/math/base/special/acoth]: https://github.com/stdlib-js/math-base-special-acoth
+
+[@stdlib/math/base/special/atanf]: https://github.com/stdlib-js/math-base-special-atanf
+
+<!-- </related-links> -->
 
 </section>
 
