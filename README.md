@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import acotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acotf@deno/mod.js';
+import acotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acotf@v0.1.2-deno/mod.js';
 ```
 
 #### acotf( x )
@@ -70,7 +70,7 @@ v = acotf( Infinity );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import acotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acotf@deno/mod.js';
+import acotf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-acotf@v0.1.2-deno/mod.js';
 
 var x = uniform( 100, -5.0, 5.0, {
     'dtype': 'float32'
